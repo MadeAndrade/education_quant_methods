@@ -16,5 +16,8 @@
   },
   "resources.qmd": {
     "resources.html": "5bbed948"
+  },
+  "about.qmd": {
+    "about.html": "7fbc12ad"
   }
 }

@@ -8,6 +8,12 @@ website:
     style: "floating"
     search: true
     contents:
+      - section: "Information"
+        contents:
+          - href: index.md
+            text: "Home Page"
+          - href: about.qmd
+            text: "About this Project"
       - section: "Chapters"
         contents:
           - href: chapter1.qmd
@@ -19,7 +25,7 @@ website:
       - section: "Resources"
         contents:
           - href: resources.qmd
-            text: "Existing Open Resources!"
+            text: "Existing Open Resources"
 format:
   html:
     theme: darkly

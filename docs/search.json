@@ -1,9 +1,24 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Quantitative Methods in Education",
+    "section": "",
+    "text": "Here is the about page for the website.",
+    "crumbs": [
+      "Information",
+      "About this Project"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "Home Page",
     "section": "",
-    "text": "Hello, you!\nThis is a test home page for my Quantitative Methods in Education Research site. I will use this to upload simple and straightforward tutorials on performing quantitative analyses on educational data using Python and R."
+    "text": "Hello, you!\nThis is a test home page for my Quantitative Methods in Education Research site. I will use this to upload simple and straightforward tutorials on performing quantitative analyses on educational data using Python and R.",
+    "crumbs": [
+      "Information",
+      "Home Page"
+    ]
   }
 ]
