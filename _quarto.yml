@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Quantitative Methods in Education"
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - section: "Chapters"
+        contents:
+          - href: chapter1.qmd
+            text: "Chapter 1: Test1"
+          - href: chapter2.qmd
+            text: "Chapter 2: Test2"
+          - href: chapter3.qmd
+            text: "Chapter 3: Test3"
+      - section: "Resources"
+        contents:
+          - href: resources.qmd
+            text: "Existing Open Resources"
+format:
+  html:
+    theme: darkly
+    toc: true
